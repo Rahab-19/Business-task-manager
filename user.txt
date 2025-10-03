@@ -1,0 +1,3 @@
+admin, admin123
+john, password1
+rahab, pass123

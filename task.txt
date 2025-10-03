@@ -1,0 +1,9 @@
+admin, Fix bug, Fix login bug in app, 2025-05-20, 2025-05-25, No
+admin, Test module, Run unit tests, 2025-05-22, 2025-05-28, Yes
+
+rahab, Update docs, Update user guide for new version, 2025-05-01, 2025-05-15, Yes
+rahab, Review code, Review pull request #42, 2025-05-10, 2025-05-20, No
+
+john, Email team, Send weekly report, 2025-05-10, 2025-05-17, No
+vm
+rahab, test module, run unit tests, 2025-06-07, 2025-05-28, No
