@@ -1,7 +1,3 @@
-Got it. Here’s a clean and easy-to-copy **README.md** draft for your project:
-
----
-
 ```markdown
 # Task Manager System
 
