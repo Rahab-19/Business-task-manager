@@ -1,0 +1,23 @@
+Total users: 3
+Total tasks: 5
+
+User: admin
+ - Tasks: 2
+ - % of all tasks: 40.00%
+ - % completed: 50.00%
+ - % incomplete: 50.00%
+ - % overdue: 50.00%
+
+User: john
+ - Tasks: 2
+ - % of all tasks: 40.00%
+ - % completed: 50.00%
+ - % incomplete: 50.00%
+ - % overdue: 50.00%
+
+User: rahab
+ - Tasks: 1
+ - % of all tasks: 20.00%
+ - % completed: 0.00%
+ - % incomplete: 100.00%
+ - % overdue: 100.00%
