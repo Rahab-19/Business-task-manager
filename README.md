@@ -1,7 +1,3 @@
-Perfect! Here’s a **concise, GitHub-friendly README** that’s clean, under 1 page, and easy for visitors to read quickly:
-
----
-
 ````markdown
 # Task Manager System
 
